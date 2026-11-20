@@ -2,6 +2,7 @@
 
 <img src="assets/hero.svg" width="100%" alt="Arpit Thakur: AI and data science engineer, Python and ML developer, Building with LLMs and RAG"/>
 
+  <a href="https://arpitthakur7.github.io"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-3B4A5E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"/></a>
   <a href="https://github.com/ArpitThakur7/ArpitThakur7/raw/main/resume/Arpit_Thakur_Resume.pdf"><img src="https://img.shields.io/badge/Download%20resume-F2A93B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download resume"/></a>
   <a href="https://www.linkedin.com/in/arpitthakur007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
