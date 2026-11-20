@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-stage.svg",
+  "backgroundColor": "#0B0F17",
+  "foregroundColor": "#ECE6DA",
+  "strongColor": "#F2A93B",
+  "weakColor": "#9AA3AF",
+  "radarColor": "#F2A93B",
+  "growingAnimation": true,
+  "contribColors": [
+    "#1C2330",
+    "#4A3A22",
+    "#8A5F24",
+    "#D08B2C",
+    "#FFC766"
+  ]
+}

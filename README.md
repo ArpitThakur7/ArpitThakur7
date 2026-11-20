@@ -93,7 +93,7 @@
 ## My contributions in 3D
 
 <div align="center">
-<img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph"/>
+<img src="profile-3d-contrib/profile-stage.svg" width="100%" alt="3D contribution graph"/>
 </div>
 
 ## GitHub stats
