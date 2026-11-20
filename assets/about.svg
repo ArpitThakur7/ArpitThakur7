@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="450" viewBox="0 0 1000 450" role="img" aria-label="About Arpit Thakur: AI and data science engineer, final year at JUIT">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1C2330"/><stop offset="1" stop-color="#151B26"/></linearGradient>
+  <radialGradient id="spot" cx=".85" cy="0" r=".6"><stop offset="0" stop-color="#F2A93B" stop-opacity=".14"/><stop offset="1" stop-color="#F2A93B" stop-opacity="0"/></radialGradient></defs>
+  <g font-family="'Segoe UI', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <rect width="1000" height="450" rx="20" fill="url(#bg)"/>
+    <rect width="1000" height="450" rx="20" fill="url(#spot)"/>
+    <rect width="1000" height="450" rx="20" fill="none" stroke="#fff" stroke-opacity=".07"/>
+    <text x="48" y="78" font-size="26" font-weight="700" fill="#ECE6DA">AI and data science engineer, final year at JUIT</text>
+    <rect x="912" y="60" width="6" height="22" rx="1.5" fill="#F2A93B">
+      <animate attributeName="height" values="6;22;10;18;6" dur="0.7s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="76;60;72;64;76" dur="0.7s" repeatCount="indefinite"/></rect><rect x="922" y="60" width="6" height="22" rx="1.5" fill="#F2A93B">
+      <animate attributeName="height" values="6;22;10;18;6" dur="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="76;60;72;64;76" dur="0.9s" repeatCount="indefinite"/></rect><rect x="932" y="60" width="6" height="22" rx="1.5" fill="#F2A93B">
+      <animate attributeName="height" values="6;22;10;18;6" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="76;60;72;64;76" dur="1s" repeatCount="indefinite"/></rect><rect x="942" y="60" width="6" height="22" rx="1.5" fill="#F2A93B">
+      <animate attributeName="height" values="6;22;10;18;6" dur="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="76;60;72;64;76" dur="1.2s" repeatCount="indefinite"/></rect>
+    <line x1="48" x2="952" y1="116" y2="116" stroke="#fff" stroke-opacity=".07"/>
+      <text x="48" y="150" font-size="16" fill="#9AA3AF">Building</text>
+      <text x="218" y="150" font-size="20" fill="#ECE6DA">Fletch, a job discovery and resume-tailoring</text><text x="218" y="178" font-size="20" fill="#ECE6DA">platform</text><line x1="48" x2="952" y1="212" y2="212" stroke="#fff" stroke-opacity=".07"/>
+      <text x="48" y="246" font-size="16" fill="#9AA3AF">Learning</text>
+      <text x="218" y="246" font-size="20" fill="#ECE6DA">Data engineering with PySpark and Microsoft Fabric</text><line x1="48" x2="952" y1="280" y2="280" stroke="#fff" stroke-opacity=".07"/>
+      <text x="48" y="314" font-size="16" fill="#9AA3AF">Open to</text>
+      <text x="218" y="314" font-size="20" fill="#ECE6DA">Python, AI/ML, data science and data engineering</text><text x="218" y="342" font-size="20" fill="#ECE6DA">roles</text>
+    <text x="48" y="416" font-size="17" fill="#9AA3AF">Fun fact: <tspan fill="#ECE6DA">I crunched 1.83M+ climate records to study Himachal rainfall at IIT Mandi</tspan></text>
+  </g>
+</svg>
